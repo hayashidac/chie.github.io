@@ -6,6 +6,8 @@
 Welcome to chie's portfoliio!
 ==============================================
 
+  `English Version <https://hayashidac.github.io/chie/index_en.html>`_
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

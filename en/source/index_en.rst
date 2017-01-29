@@ -3,16 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Contact Me
+Welcome to chie's portfoliio!
 ==============================================
 
-* GitHub: https://github.com/hayashidac
-* Bitbucket: https://bitbucket.org/chie8842/
-* LinkedIn: https://www.linkedin.com/in/chie-hayashida-bb99b286/
-* Facebook: https://www.facebook.com/chie.hayashida
-* E-Mail: chie8842 at gmail.com
+  `Japanese Version <https://hayashidac.github.io/chie/>`_
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
-
-
+   about_me_en
+   programing_en
+   experience_en
+   hobby_en
+   contact_me_en
 

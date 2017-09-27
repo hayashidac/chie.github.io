@@ -6,7 +6,7 @@
 Welcome to chie's portfoliio!
 ==============================================
 
-  `Japanese Version <https://hayashidac.github.io/chie/>`_
+  `Japanese Version <https://chie8842.github.io/aboutme/>`_
 
 .. toctree::
    :maxdepth: 2

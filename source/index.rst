@@ -13,7 +13,7 @@ Welcome to chie's portfoliio!
    :caption: Contents:
 
    about_me
-   programing
+   programming
    experience
    hobby
    contact_me

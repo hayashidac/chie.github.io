@@ -11,27 +11,27 @@ It is primarily infrastructure tools, so there is no UI screen etc, it is modest
 
 * Support Spark 2.1 at Spark Avro Package (Spark/Scala)
 
-  * http://github.com/hayashidac/spark-avro
+  * http://github.com/chie8842/spark-avro
   * Contribute to ompatiblity with Spark 2.1 at Spark avro which is an Apache Spark's third party package to read avro data source.
 
 * Apache Spark (Spark/Scala/Java/Python)
 
-  * http://github.com/hayashidac/spark
+  * http://github.com/chie8842/spark
   * Contributing to Apache Spark repository
 
 * Apache Zeppelin (Spark/Zeppelin)
 
-  * http://github.com/hayashidac/zeppelin
+  * http://github.com/chie8842/zeppelin
   * Contributed to Apache Zeppelin's documentation about dependency of Hadoop version
 
 * CopyToMarkdownAddIn (C#)
 
-  * http://github.com/hayashidac/CopyToMarkdownAddIn
+  * http://github.com/chie8842/CopyToMarkdownAddIn
   * An Microsoft Excel Plugin to make markdown style table from Excel sheet
 
 * spark-csv (Spark)
 
-  * http://github.com/hayashidac/spark-csv
+  * http://github.com/chie8842/spark-csv
   * I made a contribution to the package to use when using csv file as a data source in Spark 1.6 or earlier.
 
 * Spark MLlib Clasification test (Spark/Scala)
@@ -69,11 +69,11 @@ It is primarily infrastructure tools, so there is no UI screen etc, it is modest
 
 * Chat Application(ruby on rails)
 
-  * http://github.com/hayashidac/chat_appli3
+  * http://github.com/chie8842/chat_appli3
   * Chat Application with Ruby On Rails
 
 * Tweet Application(angularJS)
 
-  * http://github.com/hayashidac/testapp
+  * http://github.com/chie8842/testapp
   * Tweet Application with angularJS
 

@@ -7,32 +7,7 @@ Programming
 ==============================================
 
 今まで書いたプログラムのリポジトリを公開します。
-主にインフラ系なので、UI画面などがなく、地味です。
-
-* Spark AvroのSpark2.1対応 (Spark/Scala)
-
-  * http://github.com/hayashidac/spark-avro
-  * spark-avroというApache Sparkでavroデータソースを読み込むパッケージをSpark2.1対応しました。
-
-* Apache Spark (Spark/Scala/Java/Python)
-
-  * http://github.com/hayashidac/spark
-  * Apache Sparkへのコントリビュートを行なっています。
-
-* Apache Zeppelin (Spark/Zeppelin)
-
-  * http://github.com/hayashidac/zeppelin
-  * Apache Zeppelinをビルドする際のHadoopバージョンに関するドキュメントに対してコントリビュートを行いました。
-
-* CopyToMarkdownAddIn (C#)
-
-  * http://github.com/hayashidac/CopyToMarkdownAddIn
-  * Excelの表からマークダウン形式の表を作成するExcelプラグインです。
-
-* spark-csv (Spark)
-
-  * http://github.com/hayashidac/spark-csv
-  * Spark2.0以前でcsvファイルをデータソースとして使用する際に利用するパッケージにコントリビュートを行いました。
+以下の他に、Apache Spark, Zeppelin, Airflowなどへのコントリビュートを行っています。
 
 * Spark MLlibの分類器のテスト (Spark/Scala)
 
@@ -71,11 +46,11 @@ Programming
 
 * チャットアプリ(ruby on rails)
 
-  * http://github.com/hayashidac/chat_appli3
+  * http://github.com/chie8842/chat_appli
   * Ruby On Railsでチャットアプリを作成しました。
 
 * Tweetアプリ(angularJS)
 
-  * http://github.com/hayashidac/testapp
+  * http://github.com/chie8842/testapp
   * angularJSでTweetアプリを作成しました。
 

@@ -2,3 +2,6 @@
 	path = build
 	url = https://github.com/chie8842/aboutme
 	branch = gh-pages
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/chie8842/hugo-academic.git

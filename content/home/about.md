@@ -19,15 +19,36 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
+
+[[career.courses]]
+  course = "Software Engineer at Cookpad.Inc"
+  institution = ""
+  year = 2017
+  icon = "fa-building"
+
+[[career.courses]]
+  course = "Software Engineer at Retty.Inc"
+  institution = ""
+  year = 2017
+  icon = "fa-building"
+
+[[career.courses]]
+  course = "Software Engineer at NTTData"
+  institution = ""
+  year = 2010
+  icon = "fa-building"
+
+[[career.courses]]
   course = "MEng in Computer Science"
   institution = "Nara Institute of Technology"
   year = 2010
+  icon = "fa-graduation-cap"
 
-[[education.courses]]
+[[career.courses]]
   course = "BSc in Bioengineering"
   institution = "Osaka University"
   year = 2008
+  icon = "fa-graduation-cap"
  
 +++
 

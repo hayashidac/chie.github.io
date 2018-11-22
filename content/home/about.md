@@ -14,8 +14,6 @@ weight = 5
     "Machine Learning",
     "Recommendation",
     "Infrastructure Engineering",
-    "Scala, Python, go, Java, C#, Kotlin, Ruby, Swift, js",
-    "vim, zsh"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -53,7 +51,14 @@ weight = 5
 +++
 
 # Biography
-クックパッド 研究開発部 機械学習チーム所属。大学院では音声合成の研究を行ったが、奈良の山奥で人恋しくなったため、人と話す機会の多そうなSIerに入社。営業職を志望するも基盤技術開発の部署に配属され、データベース技術を中心に、NW、OSからアプリケーション開発、機械学習エンジニアリングまでフルスタックに従事。営業職でなくてよかったと人事に感謝する。Retty株式会社でデータ基盤の立ち上げを行ったのち、現職。サービスで利用するための機械学習のモデリング及び運用を行っている。また、業務の傍ら、OSS開発や技術イベントの登壇、執筆を行っている。
 
-Chie Hayashida is a Software Engineer at Cookpad. She loves programming and computer science. Previously, she launched and lead data engineering team at [Retty](https://retty.me/) and managed and empowered partners' business from point of engineering at [NTTData](https://www.nttdata.com/). She is highly skilled with DWH architecture and ML pipelines. She also experienced team building and management. She develops and contribute to some OSS, writing, and make presentations.
+クックパッド 研究開発部 機械学習チーム所属。
+奈良先端科学技術大学院大学 情報科学研究科にて多対一音声変換の研究を行った後、株式会社NTTデータに入社。基盤技術開発部隊にて、データベースや並列分散処理技術、大規模データを用いた機械学習に関する技術開発及び技術支援を行う。
+Retty株式会社にてデータ基盤の立ち上げを行ったのち、現職。モデリングを行うだけでなく、機械学習とシステム開発の両面を理解する立場として、サービスへの機械学習導入推進やシステムとして安定運用するための基盤開発を行っている。
+また業務の傍ら、OSS開発や技術イベントの登壇、執筆などを行っている。
 
+Chie Hayashida is a Software Engineer at Cookpad. She loves programming and computer science. Previously, she launched and lead data engineering team at [Retty](https://retty.me/) and managed and empowered partners' business from point of engineering at [NTTData](https://www.nttdata.com/). She is highly skilled with DWH architecture and ML pipelines. She also experienced team building and management. She develops and contribute to some OSS, write articles, and make presentations.
+
+### Skills
+
+Scala, Python, Go, Java, Kotlin, C#, Rails, Ruby, JavaScript, C++, Rust, Vim

@@ -13,7 +13,7 @@ title = "Chie's Portfolio"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; chie8842 2018-2019"
 
 theme = "academic"
 enableEmoji = true
@@ -266,6 +266,16 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://github.com/chie8842"
 
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/chie-hayashida-bb99b286/"
+
+  [[params.social]]
+    icon = "slideshare"
+    icon_pack = "fab"
+    link = "https://speakerdeck.com/chie8842"
+
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # [[params.social]]
@@ -287,29 +297,14 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Extra Activities"
+  url = "#publications"
+  weight = 2
+[[menu.main]]
+  name = "Hobby"
+  url = "/hobby/"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
-
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
-
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

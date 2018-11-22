@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Chie&#39;s Portfolio</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Chie&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; chie8842 2018-2019</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0900</pubDate>
+      
+      <guid>/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Biography クックパッド 研究開発部 機械学習チーム所属。 奈良先端科学技術大学院大学 情報科学研究科にて多対一音声変換の研究を行った後、株式会社NTTデータ</description>
+    </item>
+    
+    <item>
+      <title>Extra Activities</title>
+      <link>/home/publications/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description>OSS Contribute to Apache Spark, Apache Airflow, and so on expstock GitHub 機械学習のパラメータチューニングなどで実験結果を自動で保存してくれるツールです。 easy_notifier GitHub シンタックスシュガーを利用して、</description>
+    </item>
+    
+  </channel>
+</rss>

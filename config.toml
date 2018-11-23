@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://chie8842.github.io/aboutme"
 
 # Title of your site
 title = "Chie's Portfolio"
@@ -26,7 +26,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-92983633-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"

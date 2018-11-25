@@ -61,4 +61,4 @@ Chie Hayashida is a Software Engineer at Cookpad. She loves programming and comp
 
 ### Skills
 
-Scala, Python, Go, Java, Kotlin, C#, Rails, Ruby, JavaScript, C++, Rust, Vim
+Scala, Python, Go, Java, Kotlin, C#, Julia, Matlab, Ruby, JavaScript, C++, Rust, Vim

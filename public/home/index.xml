@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; chie8842 2018-2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://chie8842.github.io/aboutme/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://chie8842.github.io/aboutme/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0900</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
       <guid>https://chie8842.github.io/aboutme/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title></title>
       <link>https://chie8842.github.io/aboutme/home/about/</link>
-      <pubDate>Sat, 17 Nov 2018 00:00:00 +0900</pubDate>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 -0800</pubDate>
       
       <guid>https://chie8842.github.io/aboutme/home/about/</guid>
       <description>Biography クックパッド 研究開発部 機械学習チーム所属。 奈良先端科学技術大学院大学 情報科学研究科にて多対一音声変換の研究を行った後、株式会社NTTデータ</description>
@@ -33,7 +33,7 @@
     <item>
       <title>Extra Activities</title>
       <link>https://chie8842.github.io/aboutme/home/publications/</link>
-      <pubDate>Sat, 17 Nov 2018 00:00:00 +0900</pubDate>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 -0800</pubDate>
       
       <guid>https://chie8842.github.io/aboutme/home/publications/</guid>
       <description>OSS Contribute to Apache Spark, Apache Airflow, and so on expstock GitHub 機械学習のパラメータチューニングなどで実験結果を自動で保存してくれるツールです。 easy_notifier GitHub シンタックスシュガーを利用して、</description>

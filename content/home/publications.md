@@ -64,6 +64,12 @@ list_format = 2
 * Retty林田さんが語る「データ分析基盤におけるAWS活用術」 [link](http://ascii.jp/elem/000/001/605/1605062/)
 * PyCon JP 2017開催直前、緊急座談会 ～採択倍率4倍を潜り抜けた登壇者たちが、発表の裏側やイベントの楽しみ方を徹底紹介 [link](https://codezine.jp/article/detail/10391)
 
+## Contensts
+
+* re:Invent 2018 GameDay **優勝**
+  * AWS上のマイクロサービスにおけるDevOpsのコンテスト
+  * https://reinvent.awsevents.com/learn/hackathon/
+
 ## Organization
 
 * Co-Organizor of [Tokyo Machine Learning Kitchen](https://www.meetup.com/ja-JP/tokyo-machine-learning-kitchen/)

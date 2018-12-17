@@ -58,6 +58,7 @@ list_format = 2
 ## Blogs
 
 * カラムナフォーマットのきほん 〜データウェアハウスを支える技術〜 [blog](https://engineer.retty.me/entry/columnar-storage-format)
+*  本番/ステージング環境GPUぼくめつ大作戦 [blog](https://techlife.cookpad.com/entry/gpu_to_cpu)
 
 ## Media
 

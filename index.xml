@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; chie8842 2018-2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
     <atom:link href="/aboutme/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Traveling</title>
       <link>https://chie8842.github.io/aboutme/hobby/travel/</link>
-      <pubDate>Sat, 17 Nov 2018 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0900</pubDate>
       
       <guid>https://chie8842.github.io/aboutme/hobby/travel/</guid>
       <description>
@@ -70,10 +70,25 @@
     <item>
       <title>Piano</title>
       <link>https://chie8842.github.io/aboutme/hobby/piano/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0900</pubDate>
       
       <guid>https://chie8842.github.io/aboutme/hobby/piano/</guid>
-      <description></description>
+      <description>
+
+&lt;h1 id=&#34;昔耳コピで弾いたやつ&#34;&gt;昔耳コピで弾いたやつ&lt;/h1&gt;
+
+&lt;h2 id=&#34;pia-no-jac-残月&#34;&gt;→Pia-no-jaC← 「残月」&lt;/h2&gt;
+
+&lt;iframe src=&#34;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fchie.hayashida%2Fvideos%2F435694769780934%2F&amp;show_text=1&amp;width=560&#34; width=&#34;560&#34; height=&#34;405&#34; style=&#34;border:none;overflow:hidden&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; allowTransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;pia-no-jac-組曲&#34;&gt;→Pia-no-jaC← 「組曲」&lt;/h2&gt;
+
+&lt;iframe src=&#34;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fchie.hayashida%2Fvideos%2F337872492896496%2F&amp;show_text=1&amp;width=560&#34; width=&#34;560&#34; height=&#34;483&#34; style=&#34;border:none;overflow:hidden&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; allowTransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;lion&#34;&gt;Lion&lt;/h2&gt;
+
+&lt;iframe src=&#34;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fchie.hayashida%2Fvideos%2F203119753038438%2F&amp;show_text=0&amp;width=560&#34; width=&#34;560&#34; height=&#34;313&#34; style=&#34;border:none;overflow:hidden&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; allowTransparency=&#34;true&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+</description>
     </item>
     
   </channel>

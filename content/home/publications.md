@@ -75,6 +75,8 @@ list_format = 2
 
 * Co-Organizor of [Tokyo Machine Learning Kitchen](https://www.meetup.com/ja-JP/tokyo-machine-learning-kitchen/)
   * 英語による機械学習ミートアップです。
+* Organized [Woman Who Code](https://www.meetup.com/Women-Who-Code-Tokyo/) Event
+  * 英語と日本語による女性エンジニア向けミートアップです。
 
 ## 研究発表、論文
 ### 国際学会

@@ -30,7 +30,7 @@ list_format = 2
 ## OSS
 
 * Contribute to
-   * Apache Spark, Apache Airflow, and so on
+   * Apache Spark, Apache Airflow, Keras, and so on
 * expstock [GitHub](https://github.com/chie8842/expstock)
    * 機械学習のパラメータチューニングなどで実験結果を自動で保存してくれるツールです。
 * easy_notifier [GitHub](https://github.com/chie8842/easy_notifier)

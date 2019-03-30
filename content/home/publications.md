@@ -36,6 +36,13 @@ list_format = 2
 * easy_notifier [GitHub](https://github.com/chie8842/easy_notifier)
    * シンタックスシュガーを利用して、機械学習などの処理が完了したときにSlack, メール, Macのプッシュ通知のいずれかで通知してくれる軽量ツールです。
 
+## Latest Talks
+
+* Mar 18, 2019	Lecture of Data Analysis for AWS Solution Architects
+* Mar 9, 2019	Introduction to Machine Learning at Woman Who Code Event
+* Dec 20, 2018	Talk about GameDay at re:Invent 2018
+* Dec 19, 2018	Talk about Tensorflow Performance Tuning
+
 ## Slides
 評判のよかった登壇資料
 

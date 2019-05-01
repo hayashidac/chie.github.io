@@ -77,6 +77,8 @@ list_format = 2
 * re:Invent 2018 GameDay **優勝**
   * AWS上のマイクロサービスにおけるDevOpsのコンテスト
   * https://reinvent.awsevents.com/learn/hackathon/
+* PetFinder.my Adoption Prediction(Kaggle Competition)
+  * Won 18th prize in only one week challenge
 
 ## Organization
 

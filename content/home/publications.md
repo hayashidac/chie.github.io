@@ -78,7 +78,7 @@ list_format = 2
   * AWS上のマイクロサービスにおけるDevOpsのコンテスト
   * https://reinvent.awsevents.com/learn/hackathon/
 * PetFinder.my Adoption Prediction(Kaggle Competition)
-  * Won 18th prize in only one week challenge
+  * Won **18th prize** among about 2000 teams in only one week challenge
 
 ## Organization
 

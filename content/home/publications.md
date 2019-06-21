@@ -31,6 +31,8 @@ list_format = 2
 
 * Contribute to
    * Apache Spark, Tensorflow, Apache Airflow, Keras, and so on
+* tfug/proofreading [GitHub](https://github.com/tfug/proofreading)
+   * Notation check tool for TensorFlow document Japanese translation project
 * expstock [GitHub](https://github.com/chie8842/expstock)
    * 機械学習のパラメータチューニングなどで実験結果を自動で保存してくれるツールです。
 * easy_notifier [GitHub](https://github.com/chie8842/easy_notifier)
@@ -38,10 +40,11 @@ list_format = 2
 
 ## Latest Talks
 
-* Mar 18, 2019	Lecture of Data Analysis for AWS Solution Architects
-* Mar 9, 2019	Introduction to Machine Learning at Woman Who Code Event
-* Dec 20, 2018	Talk about GameDay at re:Invent 2018
-* Dec 19, 2018	Talk about Tensorflow Performance Tuning
+* June 16, 2019	Talk about "Understanding distributed processing in Python" in PyCon Thailand(in English)
+* Mar 18, 2019	Lecture of Data Analysis for AWS Solution Architects(in Japanese)
+* Mar 9, 2019	Introduction to Machine Learning at Woman Who Code Event(in English)
+* Dec 20, 2018	Talk about GameDay at re:Invent 2018(in Japanese)
+* Dec 19, 2018	Talk about Tensorflow Performance Tuning(in Japanese)
 
 ## Slides
 評判のよかった登壇資料
@@ -86,6 +89,8 @@ list_format = 2
   * 英語による機械学習ミートアップです。
 * Organized [Woman Who Code](https://www.meetup.com/Women-Who-Code-Tokyo/) Event
   * 英語と日本語による女性エンジニア向けミートアップです。
+* Reviewer of TensorFlow document Japanese translation project
+  * also core developer of a notation tool
 
 ## 研究発表、論文
 ### 国際学会

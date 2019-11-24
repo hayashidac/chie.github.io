@@ -38,13 +38,20 @@ list_format = 2
 * easy_notifier [GitHub](https://github.com/chie8842/easy_notifier)
    * シンタックスシュガーを利用して、機械学習などの処理が完了したときにSlack, メール, Macのプッシュ通知のいずれかで通知してくれる軽量ツールです。
 
-## Latest Talks
+## Talks
+<details>
+<summary>talks</summary>
 
+* Oct 15, 2019	Talk as a panelist at [Machine Learning Casual Talks #11](https://mlct.connpass.com/event/147679/)(in Japanese)
+* July 14, 2019	Talk about "Understanding distributed processing in Python" at PyData London 2019(in English)
+* Jun 24, 2019	Talk about Recommendation at Cookpad at [Machine Learning Recommender Pitch](https://machine-learning-pitch.connpass.com/event/132858/)(in Japanese)
 * June 16, 2019	Talk about "Understanding distributed processing in Python" in PyCon Thailand(in English)
 * Mar 18, 2019	Lecture of Data Analysis for AWS Solution Architects(in Japanese)
 * Mar 9, 2019	Introduction to Machine Learning at Woman Who Code Event(in English)
 * Dec 20, 2018	Talk about GameDay at re:Invent 2018(in Japanese)
 * Dec 19, 2018	Talk about Tensorflow Performance Tuning(in Japanese)
+
+</details>
 
 ## Slides
 評判のよかった登壇資料
@@ -69,7 +76,7 @@ list_format = 2
 
 * カラムナフォーマットのきほん 〜データウェアハウスを支える技術〜 [blog](https://engineer.retty.me/entry/columnar-storage-format)
 *  本番/ステージング環境GPUぼくめつ大作戦 [blog](https://techlife.cookpad.com/entry/gpu_to_cpu)
-
+* サービス特性にあった検索システムの設計戦略 [blog](https://techlife.cookpad.com/entry/2019/11/18/110000)
 ## Media
 
 * Retty林田さんが語る「データ分析基盤におけるAWS活用術」 [link](http://ascii.jp/elem/000/001/605/1605062/)

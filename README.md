@@ -2,13 +2,11 @@
 This is my portfolio site
 
 ## Environment
-This site is Made by Sphinx.
+This site is Made by Hugo 
 
-## Usage
+## How to build
+1. Install [hugo 0.53](https://github.com/gohugoio/hugo/releases/tag/v0.53)
+2. git clone --recursive git@github.com:chie8842/aboutme
+3. cd aboutme && hugo
 
-There are two projects, for Japanese and English.
-build command is here.
-
-```
-make singlehtml
-```
+Work with root dir as master branch and public dir as gh-pages branch

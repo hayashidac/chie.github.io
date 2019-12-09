@@ -15,17 +15,24 @@ linktitle = "DIY"
   weight = 1
 +++
 
-# DIY
 趣味レベルですが、たまに電子工作をします。
 過去に作ったものは写真に残っていなかったりしたので最近のものを載せていきます。
 
-# Keyboard Foot 
+# 2019/07/04 Keyboard Foot 
 [Mint60](https://eucalyn.shop/shop/kits/mint60-basic)を組み立てたのだが角度を調整したかったので3Dプリンタでつくりました。ほしいという人がいたので売りました。
 https://booth.pm/en/items/1481470
-<img src="/img/diy/foot1.jpg" width="25%" height="25%">
-<img src="/img/diy/foot2.jpg" width="25%" height="25%">
-<img src="/img/diy/foot3.jpg" width="25%" height="25%">
+<img src="https://github.com/chie8842/aboutme/blob/gh-pages/img/diy/foot1.jpg?raw=true" width="25%" height="25%">
+<img src="https://github.com/chie8842/aboutme/blob/gh-pages/img/diy/foot2.jpg?raw=true" width="25%" height="25%">
+<img src="https://github.com/chie8842/aboutme/blob/gh-pages/img/diy/foot3.jpg?raw=true" width="25%" height="25%">
 
-# Window Alarm
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">窓が複数あって防犯が気になるのでM5stackで窓が空いたら9軸センサで感知してアラーム音鳴らしてLINEに通知するの作った。サンプルコード組み合わせただけなので1時間もかからずにできた。(ちなみに上に見えてるのは有賀さんがくれたちゃんとしたやつで、一番大きい窓で使ってます！) <a href="https://t.co/qUPxYCCGkw">pic.twitter.com/qUPxYCCGkw</a></p>&mdash; ち (@chie8842) <a href="https://twitter.com/chie8842/status/1124898613845319683?ref_src=twsrc%5Etfw">May 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+# 2019/05/06 Window Alarm
+家の防犯ブザーをM5Stackで作りました。ボタンを押すと警戒モードになって、窓が開くと内蔵の9軸センサで感知してブザー音を鳴らしてLINEに通知してくれます。
 
+※ 音がなるので注意
+<video width="50%" height="50%" controls>
+  <source src="https://github.com/chie8842/aboutme/blob/gh-pages/img/diy/window_alarm.mp4?raw=true" type="video/mp4">
+</video>
+
+# 2019/05/04 Get 3D Printer
+QIDI TECHのX-One2を買いました。
+<img src="https://github.com/chie8842/aboutme/blob/gh-pages/img/diy/qidi.jpg?raw=true" width="50%" height="50%">

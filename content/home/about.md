@@ -59,8 +59,8 @@ Retty株式会社にてデータ基盤の立ち上げを行ったのち、現職
 
 Chie Hayashida is a Software Engineer at Cookpad. She loves programming and computer science. Previously, she launched and lead data engineering team at [Retty](https://retty.me/) and managed and empowered partners' business from point of engineering at [NTTData](https://www.nttdata.com/). She is highly skilled with DWH architecture and ML pipelines. She also experienced team building and management. She develops and contribute to some OSS, write articles, and make presentations.
 
-English Resume: https://chie8842.github.io/aboutme/pdf/resume.pdf
+**English Resume**: https://chie8842.github.io/aboutme/pdf/resume.pdf
 
 ### Skills
 
-Scala, Python, Go, Java, Kotlin, C#, Julia, Matlab, Ruby, JavaScript, C++, Rust, Vim
+Scala, Python, Java, Go, Kotlin, C#, Julia, Matlab, Ruby, JavaScript, C++, Rust, Vim

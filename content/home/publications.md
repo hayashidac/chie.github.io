@@ -30,11 +30,28 @@ list_format = 2
 ## OSS
 
 * Contribute to
-   * Apache Spark, Apache Airflow, and so on
+   * Apache Spark, Tensorflow, Apache Airflow, Keras, and so on
+* tfug/proofreading [GitHub](https://github.com/tfug/proofreading)
+   * Notation check tool for TensorFlow document Japanese translation project
 * expstock [GitHub](https://github.com/chie8842/expstock)
    * 機械学習のパラメータチューニングなどで実験結果を自動で保存してくれるツールです。
 * easy_notifier [GitHub](https://github.com/chie8842/easy_notifier)
    * シンタックスシュガーを利用して、機械学習などの処理が完了したときにSlack, メール, Macのプッシュ通知のいずれかで通知してくれる軽量ツールです。
+
+## Talks
+<details>
+<summary>talks</summary>
+
+* Oct 15, 2019	Talk as a panelist at [Machine Learning Casual Talks #11](https://mlct.connpass.com/event/147679/)(in Japanese)
+* July 14, 2019	Talk about "Understanding distributed processing in Python" at PyData London 2019(in English)
+* Jun 24, 2019	Talk about Recommendation at Cookpad at [Machine Learning Recommender Pitch](https://machine-learning-pitch.connpass.com/event/132858/)(in Japanese)
+* June 16, 2019	Talk about "Understanding distributed processing in Python" in PyCon Thailand(in English)
+* Mar 18, 2019	Lecture of Data Analysis for AWS Solution Architects(in Japanese)
+* Mar 9, 2019	Introduction to Machine Learning at Woman Who Code Event(in English)
+* Dec 20, 2018	Talk about GameDay at re:Invent 2018(in Japanese)
+* Dec 19, 2018	Talk about Tensorflow Performance Tuning(in Japanese)
+
+</details>
 
 ## Slides
 評判のよかった登壇資料
@@ -58,16 +75,29 @@ list_format = 2
 ## Blogs
 
 * カラムナフォーマットのきほん 〜データウェアハウスを支える技術〜 [blog](https://engineer.retty.me/entry/columnar-storage-format)
-
+*  本番/ステージング環境GPUぼくめつ大作戦 [blog](https://techlife.cookpad.com/entry/gpu_to_cpu)
+* サービス特性にあった検索システムの設計戦略 [blog](https://techlife.cookpad.com/entry/2019/11/18/110000)
 ## Media
 
 * Retty林田さんが語る「データ分析基盤におけるAWS活用術」 [link](http://ascii.jp/elem/000/001/605/1605062/)
 * PyCon JP 2017開催直前、緊急座談会 ～採択倍率4倍を潜り抜けた登壇者たちが、発表の裏側やイベントの楽しみ方を徹底紹介 [link](https://codezine.jp/article/detail/10391)
 
+## Contensts
+
+* re:Invent 2018 GameDay **優勝**
+  * AWS上のマイクロサービスにおけるDevOpsのコンテスト
+  * https://reinvent.awsevents.com/learn/hackathon/
+* PetFinder.my Adoption Prediction(Kaggle Competition)
+  * Won **18th prize** among about 2000 teams in only one week challenge
+
 ## Organization
 
 * Co-Organizor of [Tokyo Machine Learning Kitchen](https://www.meetup.com/ja-JP/tokyo-machine-learning-kitchen/)
   * 英語による機械学習ミートアップです。
+* Organized [Woman Who Code](https://www.meetup.com/Women-Who-Code-Tokyo/) Event
+  * 英語と日本語による女性エンジニア向けミートアップです。
+* Reviewer of TensorFlow document Japanese translation project
+  * also core developer of a notation tool
 
 ## 研究発表、論文
 ### 国際学会

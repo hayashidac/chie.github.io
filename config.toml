@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://chie8842.github.io/aboutme"
 
 # Title of your site
 title = "Chie's Portfolio"
@@ -26,7 +26,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-92983633-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -254,7 +254,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+    link = "https://twitter.com/chie8842"
 
   [[params.social]]
     icon = "facebook"
@@ -276,6 +276,11 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://speakerdeck.com/chie8842"
 
+  [[params.social]]
+    icon = "kaggle"
+    icon_pack = "fab"
+    link = "https://www.kaggle.com/chiehayashida"
+
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # [[params.social]]
@@ -289,13 +294,15 @@ enableGitInfo = false
 #   The weight parameter defines the order that the links will appear in.
 [params.menus]
   # Align the main menu to the right of the page? (true/false)
-  align_right = true
+  align_right = false
 
 [[menu.main]]
   name = "Home"
   url = "#about"
   weight = 1
-
+[[menu.main]]
+  name = "English Resume"
+  url = "/pdf/resume.pdf"
 [[menu.main]]
   name = "Extra Activities"
   url = "#publications"

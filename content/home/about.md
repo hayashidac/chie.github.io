@@ -52,12 +52,13 @@ weight = 5
 
 # Biography
 
-クックパッド 研究開発部 機械学習チーム所属。
+Google CloudのData&Analyticsエンジニア。
 奈良先端科学技術大学院大学 情報科学研究科にて多対一音声変換の研究を行った後、株式会社NTTデータに入社。基盤技術開発の部署にて、データベースや並列分散処理技術、大規模データを用いた機械学習に関する技術開発及び技術支援を行う。
-Retty株式会社にてデータ基盤の立ち上げを行ったのち、現職。モデリングを行うだけでなく、機械学習とシステム開発の両面を理解する立場として、サービスへの機械学習導入推進やシステムとして安定運用するための基盤開発を行っている。
+Retty株式会社にてデータ基盤の立ち上げ、クックパッドにて機械学習/検索エンジニアを経て現職。
+GCP関連のツール作成やPoCなどを行う。
 また業務の傍ら、OSS開発や技術イベントの登壇、執筆などを行っている。
 
-Chie Hayashida is a Software Engineer at Cookpad. She loves programming and computer science. Previously, she launched and lead data engineering team at [Retty](https://retty.me/) and managed and empowered partners' business from point of engineering at [NTTData](https://www.nttdata.com/). She is highly skilled with DWH architecture and ML pipelines. She also experienced team building and management. She develops and contribute to some OSS, write articles, and make presentations.
+Chie Hayashida is a Data & Analytics Engineer. She loves programming and computer science. Previously, she improved search quality and create machine learning applications at [Cookpad](https://cookpad.com/), launched and lead data engineering team at [Retty](https://retty.me/) and managed and empowered partners' business from point of engineering at [NTTData](https://www.nttdata.com/). She is highly skilled with DWH architecture and ML pipelines. She also experienced team building and management. She creates and contributes to some OSS, write articles, and makes presentations for not only business but also for hobby.
 
 **English Resume**: https://chie8842.github.io/aboutme/pdf/resume.pdf
 

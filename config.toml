@@ -302,7 +302,7 @@ enableGitInfo = false
   weight = 1
 [[menu.main]]
   name = "English Resume"
-  url = "/pdf/resume.pdf"
+  url = "/pdf/gresume.pdf"
 [[menu.main]]
   name = "Extra Activities"
   url = "#publications"

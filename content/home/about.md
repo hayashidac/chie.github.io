@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Data and ML pipelines",
+    "Data Engineering",
     "Machine Learning",
-    "Recommendation",
+    "Information retrieval(Search and Recommendation)",
     "Infrastructure Engineering",
   ]
 
@@ -58,9 +58,9 @@ Retty株式会社にてデータ基盤の立ち上げ、クックパッドにて
 GCP関連のツール作成やPoCなどを行う。
 また業務の傍ら、OSS開発や技術イベントの登壇、執筆などを行っている。
 
-Chie Hayashida is a Data & Analytics Engineer at Google. She loves programming and computer science. Previously, she improved search quality and create machine learning applications at [Cookpad](https://cookpad.com/), launched and led data engineering team at [Retty](https://retty.me/) and managed and empowered partners' business from point of engineering at [NTTData](https://www.nttdata.com/). She is highly skilled with DWH architecture and ML deployments. She also experienced team building and management. She creates and contributes to some OSS, write articles, and makes presentations for not only business but also for hobby.
+Chie Hayashida is a Data & Analytics Engineer at [Google](https://about.google/). She loves programming and computer science. Previously, she improved search quality and create machine learning applications at [Cookpad](https://cookpad.com/), launched and led data engineering team at [Retty](https://retty.me/) and managed and empowered partners' business from point of engineering at [NTTData](https://www.nttdata.com/). She is highly skilled with DWH architecture and ML deployments. She also experienced team building and management. She creates and contributes to some OSS, write articles, and makes presentations for not only business but also for hobby.
 
-**English Resume**: https://chie8842.github.io/aboutme/pdf/gresume.pdf
+**[English Resume is here](https://chie8842.github.io/aboutme/pdf/gresume.pdf)**
 
 ### Skills
 

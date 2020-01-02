@@ -116,6 +116,7 @@ Linear transformation approaches to many-to-one voice conversion. SSW 2010: 74-7
 
 ## 資格
 ### Active:
+* GCP Professional Data Engineer
 * AWS Solution Architect
 * データベーススペシャリスト
 * ネットワークスペシャリスト

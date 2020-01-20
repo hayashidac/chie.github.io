@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chie&#39;s Portfolio on Chie&#39;s Portfolio</title>
-    <link>https://chie8842.github.io/aboutme/</link>
+    <link>https://chie8842.github.io/</link>
     <description>Recent content in Chie&#39;s Portfolio on Chie&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; chie8842 2018-2019</copyright>
+    <copyright>&amp;copy; chie8842 2018-2020</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
-    <atom:link href="/aboutme/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Traveling</title>
-      <link>https://chie8842.github.io/aboutme/hobby/travel/</link>
+      <link>https://chie8842.github.io/hobby/travel/</link>
       <pubDate>Sat, 17 Nov 2018 00:00:00 +0900</pubDate>
       
-      <guid>https://chie8842.github.io/aboutme/hobby/travel/</guid>
+      <guid>https://chie8842.github.io/hobby/travel/</guid>
       <description>
 
 &lt;p&gt;足腰丈夫なうちにいろいろ行きたい。&lt;/p&gt;
@@ -34,7 +34,9 @@
 トルコ
 ヨルダン
 シリア
-ロシア&lt;/p&gt;
+ロシア
+香港
+シンガポール&lt;/p&gt;
 
 &lt;h4 id=&#34;ヨーロッパ&#34;&gt;ヨーロッパ&lt;/h4&gt;
 
@@ -68,12 +70,62 @@
     </item>
     
     <item>
-      <title>Piano</title>
-      <link>https://chie8842.github.io/aboutme/hobby/piano/</link>
+      <title>DIY</title>
+      <link>https://chie8842.github.io/hobby/diy/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0900</pubDate>
       
-      <guid>https://chie8842.github.io/aboutme/hobby/piano/</guid>
-      <description></description>
+      <guid>https://chie8842.github.io/hobby/diy/</guid>
+      <description>
+
+&lt;p&gt;趣味レベルですが、たまに電子工作をします。
+過去に作ったものは写真に残っていなかったりしたので最近のものを載せていきます。&lt;/p&gt;
+
+&lt;h1 id=&#34;2019-07-04-keyboard-foot&#34;&gt;2019/07/04 Keyboard Foot&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://eucalyn.shop/shop/kits/mint60-basic&#34; target=&#34;_blank&#34;&gt;Mint60&lt;/a&gt;を組み立てたのだが角度を調整したかったので3Dプリンタでつくりました。ほしいという人がいたので売りました。
+&lt;a href=&#34;https://booth.pm/en/items/1481470&#34; target=&#34;_blank&#34;&gt;https://booth.pm/en/items/1481470&lt;/a&gt;
+&lt;img src=&#34;https://github.com/chie8842/chie8842.github.io/blob/gh-pages/img/diy/foot1.jpg?raw=true&#34; width=&#34;25%&#34; height=&#34;25%&#34;&gt;
+&lt;img src=&#34;https://github.com/chie8842/chie8842.github.io/blob/gh-pages/img/diy/foot2.jpg?raw=true&#34; width=&#34;25%&#34; height=&#34;25%&#34;&gt;
+&lt;img src=&#34;https://github.com/chie8842/chie8842.github.io/blob/gh-pages/img/diy/foot3.jpg?raw=true&#34; width=&#34;25%&#34; height=&#34;25%&#34;&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;2019-05-06-window-alarm&#34;&gt;2019/05/06 Window Alarm&lt;/h1&gt;
+
+&lt;p&gt;家の防犯ブザーをM5Stackで作りました。ボタンを押すと警戒モードになって、窓が開くと内蔵の9軸センサで感知してブザー音を鳴らしてLINEに通知してくれます。&lt;/p&gt;
+
+&lt;p&gt;※ 音がなるので注意
+&lt;video width=&#34;50%&#34; height=&#34;50%&#34; controls&gt;
+  &lt;source src=&#34;https://github.com/chie8842/chie8842.github.io/blob/gh-pages/img/diy/window_alarm.mp4?raw=true&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;2019-05-04-get-3d-printer&#34;&gt;2019/05/04 Get 3D Printer&lt;/h1&gt;
+
+&lt;p&gt;QIDI TECHのX-One2を買いました。
+&lt;img src=&#34;https://github.com/chie8842/chie8842.github.io/blob/gh-pages/img/diy/qidi.jpg?raw=true&#34; width=&#34;50%&#34; height=&#34;50%&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Piano</title>
+      <link>https://chie8842.github.io/hobby/piano/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://chie8842.github.io/hobby/piano/</guid>
+      <description>
+
+&lt;h1 id=&#34;昔耳コピで弾いたやつ&#34;&gt;昔耳コピで弾いたやつ&lt;/h1&gt;
+
+&lt;h2 id=&#34;pia-no-jac-残月&#34;&gt;→Pia-no-jaC← 「残月」&lt;/h2&gt;
+
+&lt;iframe src=&#34;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fchie.hayashida%2Fvideos%2F435694769780934%2F&amp;show_text=1&amp;width=560&#34; width=&#34;560&#34; height=&#34;405&#34; style=&#34;border:none;overflow:hidden&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; allowTransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;pia-no-jac-組曲&#34;&gt;→Pia-no-jaC← 「組曲」&lt;/h2&gt;
+
+&lt;iframe src=&#34;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fchie.hayashida%2Fvideos%2F337872492896496%2F&amp;show_text=1&amp;width=560&#34; width=&#34;560&#34; height=&#34;483&#34; style=&#34;border:none;overflow:hidden&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; allowTransparency=&#34;true&#34; allow=&#34;encrypted-media&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;lion&#34;&gt;Lion&lt;/h2&gt;
+
+&lt;iframe src=&#34;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fchie.hayashida%2Fvideos%2F203119753038438%2F&amp;show_text=0&amp;width=560&#34; width=&#34;560&#34; height=&#34;313&#34; style=&#34;border:none;overflow:hidden&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; allowTransparency=&#34;true&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+</description>
     </item>
     
   </channel>

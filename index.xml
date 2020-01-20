@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chie&#39;s Portfolio on Chie&#39;s Portfolio</title>
-    <link>https://chie8842.github.io/aboutme/</link>
+    <link>https://chie8842.github.io/</link>
     <description>Recent content in Chie&#39;s Portfolio on Chie&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; chie8842 2018-2020</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
-    <atom:link href="/aboutme/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Traveling</title>
-      <link>https://chie8842.github.io/aboutme/hobby/travel/</link>
+      <link>https://chie8842.github.io/hobby/travel/</link>
       <pubDate>Sat, 17 Nov 2018 00:00:00 +0900</pubDate>
       
-      <guid>https://chie8842.github.io/aboutme/hobby/travel/</guid>
+      <guid>https://chie8842.github.io/hobby/travel/</guid>
       <description>
 
 &lt;p&gt;足腰丈夫なうちにいろいろ行きたい。&lt;/p&gt;
@@ -71,10 +71,10 @@
     
     <item>
       <title>DIY</title>
-      <link>https://chie8842.github.io/aboutme/hobby/diy/</link>
+      <link>https://chie8842.github.io/hobby/diy/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0900</pubDate>
       
-      <guid>https://chie8842.github.io/aboutme/hobby/diy/</guid>
+      <guid>https://chie8842.github.io/hobby/diy/</guid>
       <description>
 
 &lt;p&gt;趣味レベルですが、たまに電子工作をします。
@@ -84,9 +84,9 @@
 
 &lt;p&gt;&lt;a href=&#34;https://eucalyn.shop/shop/kits/mint60-basic&#34; target=&#34;_blank&#34;&gt;Mint60&lt;/a&gt;を組み立てたのだが角度を調整したかったので3Dプリンタでつくりました。ほしいという人がいたので売りました。
 &lt;a href=&#34;https://booth.pm/en/items/1481470&#34; target=&#34;_blank&#34;&gt;https://booth.pm/en/items/1481470&lt;/a&gt;
-&lt;img src=&#34;https://github.com/chie8842/aboutme/blob/gh-pages/img/diy/foot1.jpg?raw=true&#34; width=&#34;25%&#34; height=&#34;25%&#34;&gt;
-&lt;img src=&#34;https://github.com/chie8842/aboutme/blob/gh-pages/img/diy/foot2.jpg?raw=true&#34; width=&#34;25%&#34; height=&#34;25%&#34;&gt;
-&lt;img src=&#34;https://github.com/chie8842/aboutme/blob/gh-pages/img/diy/foot3.jpg?raw=true&#34; width=&#34;25%&#34; height=&#34;25%&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://github.com/chie8842/chie8842.github.io/blob/gh-pages/img/diy/foot1.jpg?raw=true&#34; width=&#34;25%&#34; height=&#34;25%&#34;&gt;
+&lt;img src=&#34;https://github.com/chie8842/chie8842.github.io/blob/gh-pages/img/diy/foot2.jpg?raw=true&#34; width=&#34;25%&#34; height=&#34;25%&#34;&gt;
+&lt;img src=&#34;https://github.com/chie8842/chie8842.github.io/blob/gh-pages/img/diy/foot3.jpg?raw=true&#34; width=&#34;25%&#34; height=&#34;25%&#34;&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;2019-05-06-window-alarm&#34;&gt;2019/05/06 Window Alarm&lt;/h1&gt;
 
@@ -94,22 +94,22 @@
 
 &lt;p&gt;※ 音がなるので注意
 &lt;video width=&#34;50%&#34; height=&#34;50%&#34; controls&gt;
-  &lt;source src=&#34;https://github.com/chie8842/aboutme/blob/gh-pages/img/diy/window_alarm.mp4?raw=true&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://github.com/chie8842/chie8842.github.io/blob/gh-pages/img/diy/window_alarm.mp4?raw=true&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;2019-05-04-get-3d-printer&#34;&gt;2019/05/04 Get 3D Printer&lt;/h1&gt;
 
 &lt;p&gt;QIDI TECHのX-One2を買いました。
-&lt;img src=&#34;https://github.com/chie8842/aboutme/blob/gh-pages/img/diy/qidi.jpg?raw=true&#34; width=&#34;50%&#34; height=&#34;50%&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://github.com/chie8842/chie8842.github.io/blob/gh-pages/img/diy/qidi.jpg?raw=true&#34; width=&#34;50%&#34; height=&#34;50%&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Piano</title>
-      <link>https://chie8842.github.io/aboutme/hobby/piano/</link>
+      <link>https://chie8842.github.io/hobby/piano/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0900</pubDate>
       
-      <guid>https://chie8842.github.io/aboutme/hobby/piano/</guid>
+      <guid>https://chie8842.github.io/hobby/piano/</guid>
       <description>
 
 &lt;h1 id=&#34;昔耳コピで弾いたやつ&#34;&gt;昔耳コピで弾いたやつ&lt;/h1&gt;

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Chie&#39;s Portfolio</title>
-    <link>https://chie8842.github.io/aboutme/home/</link>
+    <link>https://chie8842.github.io/home/</link>
     <description>Recent content in Homes on Chie&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; chie8842 2018-2020</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="https://chie8842.github.io/aboutme/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chie8842.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://chie8842.github.io/aboutme/home/hero_carousel/</link>
+      <link>https://chie8842.github.io/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://chie8842.github.io/aboutme/home/hero_carousel/</guid>
+      <guid>https://chie8842.github.io/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://chie8842.github.io/aboutme/home/about/</link>
+      <link>https://chie8842.github.io/home/about/</link>
       <pubDate>Sat, 17 Nov 2018 00:00:00 +0900</pubDate>
       
-      <guid>https://chie8842.github.io/aboutme/home/about/</guid>
+      <guid>https://chie8842.github.io/home/about/</guid>
       <description>Biography Google CloudのData&amp;amp;Analyticsエンジニア。 奈良先端科学技術大学院大学 情報科学研究科にて多対一音声変換の研究を行った後、</description>
     </item>
     
     <item>
       <title>Extra Activities</title>
-      <link>https://chie8842.github.io/aboutme/home/publications/</link>
+      <link>https://chie8842.github.io/home/publications/</link>
       <pubDate>Sat, 17 Nov 2018 00:00:00 +0900</pubDate>
       
-      <guid>https://chie8842.github.io/aboutme/home/publications/</guid>
+      <guid>https://chie8842.github.io/home/publications/</guid>
       <description>OSS Contribute to Apache Spark, Tensorflow, Apache Airflow, Keras, and so on tfug/proofreading GitHub Notation check tool for TensorFlow document Japanese translation project expstock GitHub 機械学習のパラメータチューニングなどで実験結果を自動で保存してくれるツールです。 easy_notifier GitHub シンタ</description>
     </item>
     

@@ -99,7 +99,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "ocean"
+  color_theme = "pink"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -109,7 +109,7 @@ enableGitInfo = false
   description = ""
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = ""
+  sharing_image = "logo.png"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   twitter = "chie8842"

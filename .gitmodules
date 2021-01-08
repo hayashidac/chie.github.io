@@ -1,7 +1,7 @@
 [submodule "build"]
 	path = build
-	url = https://github.com/chie8842/aboutme
-	branch = gh-pages
+	url = https://github.com/chie8842/chie8842.github.io
+	branch = develop
 [submodule "themes/academic"]
 	path = themes/academic
 	url = git@:github.com:chie8842/hugo-academic.git
